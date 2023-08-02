@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Previous Work</title>
     <link rel="stylesheet" href="style.css">
-    <script src="app.js"></script>
 </head>
 <body>
     <div class="header">
@@ -16,7 +15,15 @@
         <a class="header-link" href="contact.html">Contact</a>
     </div>
 
-    <div class="content"></div>
+    <div class="content">
+        <div class="slideshow">
+            <div class="slide fade"></div>
+            <div class="slide fade"></div>
+
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+    </div>
 
     <div class="footer">
         <div class="resources">
@@ -32,5 +39,8 @@
             <a href="https://www.fiverr.com/michael_firman" target="_blank"><img src="" alt="Fiverr"></a>
         </div>
     </div>
+
+    <script src="app.js"></script>
+    <script src="slidesController.js"></script>
 </body>
 </html>
