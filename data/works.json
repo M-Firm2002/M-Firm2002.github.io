@@ -1,0 +1,40 @@
+{
+    "works":[
+        {
+            "name":"Portfolio Site",
+            "tags":["Web Development"],
+            "imageURL":"",
+            "pageLink":"",
+            "gitLink":"https://github.com/M-Firm2002/M-Firm2002.github.io",
+            "description":"",
+            "tools":["HTML", "CSS", "JavaScript", "JSON", "Git"]
+        },
+        {
+            "name":"Undergraduate Dissertation",
+            "tags":["Machine Learning", "Cyber Security", "Deep Learning"],
+            "imageURL":"",
+            "pageLink":"",
+            "gitLink":null,
+            "description":"",
+            "tools":["Python", "Scikit-Learn", "TensorFlow"]
+        },
+        {
+            "name":"2D Game Tutorial",
+            "tags":["Game Development"],
+            "imageURL":"",
+            "pageLink":"",
+            "gitLink":"https://github.com/M-Firm2002/Java-2D-Game-Tutorial",
+            "description":"",
+            "tools":["Java"]
+        },
+        {
+            "name":"Tournament Simulator",
+            "tags":["Software Development"],
+            "imageURL":"",
+            "pageLink":"",
+            "gitLink":"https://github.com/M-Firm2002/Tournament-Simulator",
+            "description":"",
+            "tools":["C++"]
+        }
+    ]
+}
